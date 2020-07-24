@@ -75,8 +75,8 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;500;700&display=swap" rel="stylesheet">'
-  title_font: '"Inconsolata", sans-serif'
-  body_font: '"Inconsolata", sans-serif'
+  title_font: '"Inconsolata", monospace'
+  body_font: '"Inconsolata", monospace'
   regular_weight: 300
   bold_weight: 700
   site_title:
